@@ -4,6 +4,7 @@
     "convert",
     "web",
     "webpack-loader",
+    "rollup-plugin",
     "examples/webpack"
   ]
 }
